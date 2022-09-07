@@ -19,7 +19,6 @@ import logging
 from aiogram.types import ReplyKeyboardRemove
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
 
-import db_functions
 
 
 API_TOKEN = '5730303832:AAGE3lbjVqNaqJ0bUww-eRUzW_dNTkrJXrg'
